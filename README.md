@@ -1,16 +1,17 @@
-### Hi there 👋
+### Can Vardar
 
-<!--
-**icanvardar/icanvardar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A person always passionate about creativity.
 
-Here are some ideas to get you started:
+- I type 110 WPM btw.
+- I use Vim btw.
+- I don't use Arch btw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building apps/tools and struggling with my .vimrc config.
+
+#### 📫 How to reach me:
+- Discord: `mythi`
+
+#### ⚡️ Fun fact:
+- Birds are literally dinosaurs.
+
+#### [Click me if you can](https://www.youtube.com/shorts/jw3jjN8kCyo)
