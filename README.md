@@ -9,7 +9,7 @@ A person always passionate about creativity.
 Currently building apps/tools and struggling with my .vimrc config.
 
 #### 📫 How to reach me:
-- Discord: `mythi`
+- Discord: `itsmemythi`
 
 #### ⚡️ Fun fact:
 - Birds are literally dinosaurs.
