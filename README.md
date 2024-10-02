@@ -1,12 +1,10 @@
 ### Can Vardar
 
-A person always passionate about creativity.
-
-Currently building apps/tools and struggling with my `.vimrc` config.
+I'm a software engineer, researcher, and builder. Always tinkering, always learning.
 
 I write from time to time on my personal blog: [icanvardar.com/blog](https://icanvardar.com/blog)
 
-[![gpg-key-id](https://img.shields.io/badge/GPG-0x576A53DB873AA1D8-123456)](https://github.com/icanvardar.gpg)
+[![gpg-key-id](https://img.shields.io/badge/GPG%20key-0xCC62499FB2C20F1B-123456)](https://github.com/icanvardar.gpg)
 
 #### 📫 How to reach me:
 - Discord: `itsmemythi`
@@ -18,4 +16,6 @@ I write from time to time on my personal blog: [icanvardar.com/blog](https://ica
 #### ⚡️ Fun fact:
 - Birds are literally dinosaurs.
 
-#### [Click me if you can!](https://www.youtube.com/shorts/jw3jjN8kCyo)
+#
+
+[Click me if you can!](https://www.youtube.com/shorts/jw3jjN8kCyo)
