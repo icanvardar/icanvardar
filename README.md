@@ -18,4 +18,27 @@ I write from time to time on my personal blog: [icanvardar.com/blog](https://ica
 
 #
 
-[Click me if you can!](https://www.youtube.com/shorts/jw3jjN8kCyo)
+### Apps
+
+| **Project Name** | **Description** |
+|------------------|-----------------|
+| [arbor](https://github.com/icanvardar/arbor) | A trie-based autocomplete tool for words written in ASCII characters. |
+| [cubipods](https://github.com/icanvardar/cubipods) | A minimal EVM implemented in Rust. |
+
+### Libraries/Tools
+
+| **Project Name** | **Description** |
+|------------------|-----------------|
+| [plaxis](https://github.com/icanvardar/plaxis) | Type-safe array management library for JavaScript and TypeScript. |
+| [gasgnome](https://github.com/icanvardar/gasgnome) | Collection of Solidity libraries in inline assembly. |
+| [pygmalion](https://github.com/icanvardar/pygmalion) | Solidity lexer written in Rust! |
+| [pesto](https://github.com/icanvardar/pesto) | A command-line tool to assist in creating Node.js packages. |
+
+### Config/Templates
+
+| **Project Name** | **Description** |
+|------------------|-----------------|
+| [.dotfiles](https://github.com/icanvardar/.dotfiles) | My sweeeeeet, delicious dotfiles, yummm! |
+| [bun-service-template](https://github.com/icanvardar/bun-service-template) | A pre-configured HTTP server template that works with Bun. |
+| [i3-screen-util](https://github.com/icanvardar/i3-screen-util) | A screen management tool for your lovely i3wm config. |
+| [foundry-template](https://github.com/icanvardar/foundry-template) | A template for Solidity projects that runs on top of Foundry and uses Soldeer as package manager. |
