@@ -1,16 +1,19 @@
-## Hi there 👋
+### Can Vardar
 
-<!--
-**icanvardar/icanvardar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, researcher, and builder. Always tinkering, always learning.
 
-Here are some ideas to get you started:
+I write from time to time on my personal blog: [icanvardar.com/blog](https://icanvardar.com/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![gpg-key-id](https://img.shields.io/badge/GPG%20key-0xCC62499FB2C20F1B-123456)](https://github.com/icanvardar.gpg)
+
+<p>Check out my <a href="https://github.com/icanvardar/.dotfiles">dotfiles</a>.</p>
+
+#### 📫 How to reach me:
+- Discord: `itsmemythi`
+- Email: <a href= "mailto: me@icanvardar.com">me@icanvardar.com</a>
+
+#### 🌟 Job Opportunities & Business Proposals
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/icanvardar).
+
+#### ⚡️ Fun fact:
+- Birds are literally dinosaurs.
